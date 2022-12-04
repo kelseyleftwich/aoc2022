@@ -1,10 +1,10 @@
-mod day2;
-pub use crate::day2::solve::part_1;
+mod day3;
+pub use crate::day3::solve::part_2;
 
 
 
 fn main() {
     
-    part_1()
+    part_2()
 
 }
